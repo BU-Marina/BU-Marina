@@ -1,15 +1,17 @@
 <!-- HEADER -->
 <h1 align="center">👋 Привет! Я Марина | Hi!  I'm Marina</h1>
-<h3 align="center">Python-разработчик | Python-Developer | Backend Engineer</h3>
+<h3 align="center">Python-разработчик | Python-Developer | Backend Engineer | Fullstack-Developer</h3>
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-Python-black.svg?style=for-the-badge&logo=python&colorB=blue"></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/-FastAPI-black.svg?style=for-the-badge&logo=fastapi&colorB=orange"></a>  
   <a href="https://docs.celeryproject.org/en/latest/index.html" target="_blank"><img src="https://img.shields.io/badge/-Celery-black.svg?style=for-the-badge&logo=celery&colorB=green"></a>  
   <a href="https://developer.mozilla.org/docs/Web/API/WebSocket" target="_blank"><img src="https://img.shields.io/badge/-WebSockets-black.svg?style=for-the-badge&logo=websockets&colorB=yellow"></a> 
-  <a href="https://docs.djangoproject.com/en/stable/" target="_blank"><img src="https://img.shields.io/badge/-Django-black.svg?style=for-the-badge&logo=django&colorB=purple"></a>  
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/-PostgreSQL-black.svg?style=for-the-badge&logo=postgresql&colorB=darkgreen"></a>  
+  <a href="https://docs.djangoproject.com/en/stable/" target="_blank"><img src="https://img.shields.io/badge/-Django-black.svg?style=for-the-badge&logo=django&colorB=purple"></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/-PostgreSQL-black.svg?style=for-the-badge&logo=postgresql&colorB=darkgreen"></a>
   <a href="https://docker.com/" target="_blank"><img src="https://img.shields.io/badge/-Docker-black.svg?style=for-the-badge&logo=docker&colorB=cyan"></a>
+  <a href="https://docs.sqlalchemy.org/" target="_blank"><img src="https://img.shields.io/badge/-SQLAlchemy-black.svg?style=for-the-badge&logo=sqlalchemy&colorB=red"></a>
+  <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/-Vue.js-black.svg?style=for-the-badge&logo=vue.js&colorB=green"></a>
   <!-- Добавьте больше значков, заменяя ссылки на ваши технологии -->
 </p>
 
