@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BU-Marina&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://wakatime.com/share/@BU-Marina/my-waketime-badge.png" alt="WakaTime Activity"/>
 </div>
 
 <h1 align="center">👋 Привет! Я Марина, разработчик Python. | Hi!  I'm Marina, Python-developer.</h1>
