@@ -24,7 +24,9 @@
 
 ## ☕️ Свяжитесь со мной | Contact me:
 <a href="https://t.me/marina_buuz" target="_blank"><img src="https://img.shields.io/badge/-Telegram-blue.svg?style=for-the-badge&logo=telegram&colorB=white"></a>  
-
+<a href="mailto:marina.buzz@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 ---
 
 **📚 Примечания: | Notes:**
