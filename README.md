@@ -43,4 +43,4 @@
 - Мой стек постоянно расширяется, изучаю новые инструменты и языки программирования! | My stack is constantly expanding, learning new programming tools and languages!
 - Готова обсудить интересные проекты и возможности сотрудничества. | I am open to discuss interesting projects and cooperation opportunities.
 
-*Спасибо за посещение моего профиля! Thank you!*
+*Спасибо за посещение моего профиля! Thank you!* <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
