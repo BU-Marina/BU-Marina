@@ -1,8 +1,4 @@
 <!-- HEADER -->
-<div align="center">
-  <img src="https://wakatime.com/share/@BU-Marina/my-waketime-badge.png" alt="WakaTime Activity"/>
-</div>
-
 <h1 align="center">👋 Привет! Я Марина, разработчик Python. | Hi!  I'm Marina, Python-developer.</h1>
 <p align="center">
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-Python-black.svg?style=for-the-badge&logo=python&colorB=blue"></a>
